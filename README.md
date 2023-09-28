@@ -6,8 +6,7 @@ Versión móvil de nuestra aplicación de alarmas. No me olvides App.
 
 ## Requisitos
 
-- Node.js
-- npm
+- AndroidStudio
 
 ## Instalación
 
